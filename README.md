@@ -2,7 +2,7 @@
 
 This project aims to predict customer churn for a bank using machine learning. It walks through a complete pipeline, from data analysis to model training and deployment, ending with an interactive web dashboard.
 
-🔗 **[Click here to view the live dashboard](https://datascienceprojects-customerchurnpredictor.streamlit.app)**
+🔗 **[Click here to view the live dashboard](https://customer-churn-prediction-mussa.streamlit.app/)**
 
 
 ## Project Summary
