@@ -21,7 +21,7 @@ We used a real-world dataset and followed these steps:
 ## Live Dashboard
 
 You can explore the dashboard here:  
-👉 [https://datascienceprojects-customerchurnpredictor.streamlit.app](https://datascienceprojects-customerchurnpredictor.streamlit.app)
+👉 [https://datascienceprojects-customerchurnpredictor.streamlit.app](https://customer-churn-prediction-mussa.streamlit.app/)
 
 ### Key Features:
 - 📊 Churn analysis by age group, geography, products, and engagement
